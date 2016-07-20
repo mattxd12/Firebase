@@ -1,0 +1,16 @@
+#result{
+  border: 2px solid black;
+  border-radius: 40%;
+  width: 75%;
+  height: auto;
+}
+
+h2{
+  color: rgb(9, 11, 57);
+  font-family: fantasy, cursive;
+
+}
+
+body{
+  background-color: rgb(103, 99, 103);
+}
